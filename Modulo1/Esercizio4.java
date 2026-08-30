@@ -3,7 +3,7 @@ package Modulo1;
 import java.util.Scanner;
 
 /**
- * acquisire in input 10 numeri interi e visualizzarli in sequenza senza stampare uno stesso numero più di una
+ * Acquisire in input 10 numeri interi e visualizzarli in sequenza senza stampare uno stesso numero più di una
  * volta.
  * @author Samuele Dallabrida
  * @date 30/08/2026
