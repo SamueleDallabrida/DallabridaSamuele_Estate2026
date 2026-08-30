@@ -8,7 +8,7 @@ import java.util.Scanner;
  * Generare casualmente n (con n fornito in input dall'utente) numeri interi;
  * successivamente, visualizzarne il quadrato.
  *
- * @author Samuele Dallabrida
+ * @author @SamueleDallabrida
  * @date 23/08/2026
  */
 

@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Dopo aver acquisito in input un numero positivo inferiore a 10000, calcolarne i divisori, memorizzarli in un
  * vettore e stamparli a video
  *
- * @author Samuele Dallabrida
+ * @author @SamueleDallabrida
  * @date 23/08/2026
  */
 

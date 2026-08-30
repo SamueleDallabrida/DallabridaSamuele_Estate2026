@@ -8,7 +8,7 @@ import java.util.Scanner;
  * (compreso tra 5 e 10; se il valore non è valido, il programma deve continuare a chiederlo). 
  * Successivamente, memorizzare i valori in un array e infine ribaltare l'array.
  *
- * @author Samuele Dallabrida
+ * @author @SamueleDallabrida
  * @date 30/08/2026
  */
 

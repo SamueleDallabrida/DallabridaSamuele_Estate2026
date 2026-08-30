@@ -7,7 +7,7 @@ import java.util.Random;
  * Generare casualmente 10 numeri, memorizzarli in un array ed effettuare lo scambio tra il massimo ed il
  * minimo elemento
  *
- * @author Samuele Dallabrida
+ * @author @SamueleDallabrida
  * @date 23/08/2026
  */
 

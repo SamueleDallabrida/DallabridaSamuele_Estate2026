@@ -6,7 +6,7 @@ import java.util.Random;
  * Generare casualmente 30 numeri e memorizzarli in due vettori: il primo vettore deve contenere solo i numeri
  * pari mentre il secondo i numeri dispari
  *
- * @author Samuele Dallabrida
+ * @author @SamueleDallabrida
  * @date 30/08/2026
  */
 public class Esercizio5 {

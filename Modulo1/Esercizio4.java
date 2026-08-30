@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Acquisire in input 10 numeri interi e visualizzarli in sequenza senza stampare uno stesso numero più di una
  * volta.
- * @author Samuele Dallabrida
+ * @author @SamueleDallabrida
  * @date 30/08/2026
  */
 
