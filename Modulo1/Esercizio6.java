@@ -40,5 +40,6 @@ public class Esercizio6 {
         for (int i = 0; i < num; i++) {
             System.out.print(vett[i] + " ");
         }
+        tastiera.close();
     }
 }
