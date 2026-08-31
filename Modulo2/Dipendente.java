@@ -13,11 +13,11 @@ package Modulo2;
  * @setNome: Imposta un nome al dipendente (deve essere presente (non null o vuoto))
  * @setCognome: Imposta un cognome al dipendente (deve essere presente (non null o vuoto))
  * @setEta: Imposta un eta al dipendente (non può essere negativa)
- * @setStioendio: Imposta uno stipendio al dipendente (non può essere negativo)
+ * @setStipendio: Imposta uno stipendio al dipendente (non può essere negativo)
  * @getNome: Restituisce il nome del dipendente
  * @getCognome: Restituisce il cognome del dipendente
  * @getEta: Restituisce l'età del dipendete
- * @getStioendio: Restituisce lo stipendio del dipendente
+ * @getStipendio: Restituisce lo stipendio del dipendente
  */
 
 public class Dipendente {
