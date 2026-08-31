@@ -1,4 +1,4 @@
-package TestPackeages.TestModulo1;
+package TestPackages.TestModulo1;
 
 import Modulo1.Biglietto;
 import java.util.Random;

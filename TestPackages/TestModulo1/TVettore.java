@@ -1,12 +1,11 @@
-package TestPackeages.TestModulo1;
+package TestPackages.TestModulo1;
 
 import Modulo1.AlgoritmoOrdinamento;
 import Modulo1.Vettore;
 
 /**
  * TESTO ESERCIZIO:
- * I biglietti sono numerati a 6 cifre, se la somma delle prime 3 e ultime 3 è uguale allora, il russo avra una giornata fortunata;
- * Creare una classe che ti permetta di creare un biglietto, controllare se è fortunato e stamparlo.
+ * Test dei seguenti metodi della classe vettore
  *
  * @author @SamueleDallabrida
  * @date 31/08/2026
