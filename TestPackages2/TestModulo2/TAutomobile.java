@@ -1,7 +1,7 @@
 package TestPackages2.TestModulo2;
 
 import Modulo2.Automobile;
-i
+
 public class TAutomobile {
     public static void main(String[] args) throws Exception {
         //Creiamo l'automobile
