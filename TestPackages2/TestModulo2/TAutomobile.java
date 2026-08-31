@@ -7,7 +7,7 @@ public class TAutomobile {
         //Creiamo l'automobile
         Automobile auto = new Automobile("BMW", "X3", 2000, 4.7, 1.9, 15.0, 60.0, 20.0);
         
-        System.out.println("Automobile creata con successo! 🚗");
+        System.out.println("Automobile creata con successo!");
 
         //Metodo Percorri
         auto.percorri(150); // Percorriamo 150 km
